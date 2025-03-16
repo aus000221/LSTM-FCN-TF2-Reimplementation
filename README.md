@@ -1,9 +1,9 @@
 # LSTM FCN for Time Series Classification
 
-This is a LSTM-FCN Tensorflow 2.0 reimplementation. 
-It's created originally as a course project for Columbia University ECBM-4040 2024 Fall.
+**This is a LSTM-FCN Tensorflow 2.0 reimplementation. 
+It's created originally as a course project for Columbia University ECBM-4040 2024 Fall.**
 
-LSTM FCN models, from the paper [LSTM Fully Convolutional Networks for Time Series Classification](https://ieeexplore.ieee.org/document/8141873/), augment the fast classification performance of Temporal Convolutional layers with the precise classification of Long Short Term Memory Recurrent Neural Networks. We aimed to perform a detailed study to replicate many of the result and compare the classification results of the authors**
+LSTM FCN models, from the paper [LSTM Fully Convolutional Networks for Time Series Classification](https://ieeexplore.ieee.org/document/8141873/), augment the fast classification performance of Temporal Convolutional layers with the precise classification of Long Short Term Memory Recurrent Neural Networks. We aimed to perform a detailed study to replicate many of the result and compare the classification results of the authors
 
 Repository: [LSTM-FCN](https://github.com/houshd/LSTM-FCN)
 
