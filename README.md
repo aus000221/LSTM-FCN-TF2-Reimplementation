@@ -5,7 +5,7 @@ It's created originally as a course project for Columbia University ECBM-4040 20
 
 LSTM FCN models, from the paper [LSTM Fully Convolutional Networks for Time Series Classification](https://ieeexplore.ieee.org/document/8141873/), augment the fast classification performance of Temporal Convolutional layers with the precise classification of Long Short Term Memory Recurrent Neural Networks. We aimed to perform a detailed study to replicate many of the result and compare the classification results of the authors**
 
-Repository: [LSTM-FCN-Ablation](https://github.com/titu1994/LSTM-FCN-Ablation)
+Repository: [LSTM-FCN](https://github.com/houshd/LSTM-FCN)
 
 
 ### load_data.py
