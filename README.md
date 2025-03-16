@@ -54,10 +54,8 @@ The results of LSTM and ALSTM, with and without fine tuning , are saved in two c
 Run all the operations in the main Jupyter notebook.
 
 # Results
-See the csv files of all LSTM and ALSTM  model accuracy results in our repository. All best trained model 
-and fine tuned model are saved in our working directory and locally but cannot be uploaded on github repositories due to the limitations on file sizes.
-Thus, A sample LSTM trained model "Beef" along with ALSTM "Beef" model, with and without fine tuning, was uploaded for reference. 
-The results are compared to the authors in the tables.
+See the csv files of all LSTM and ALSTM  model accuracy results in our repository. 
+The results are compared to the authors' in our report's tables.
 
 # Citation
 ```
